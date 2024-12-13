@@ -4,6 +4,8 @@
 2. .. 连接2个字符串
 3. \ 转义字符串。 \v \n \f \0 NULL \ddd \xhh
 4， #ss string.len(ss) utf8.len(ss) 获取字符串的长度.
+5. 格式化
+6. 模式匹配
 ]]
 local a = 'aa'
 local b = "aaa"
